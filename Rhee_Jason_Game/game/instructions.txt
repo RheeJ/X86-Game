@@ -1,0 +1,11 @@
+Rhee, Jason Asteroids
+
+Please play the game in gamewin.exe.
+
+Use arrow keys to move the spacecraft. Use 'z' and 'x' to rotate left and right respectively.
+There are three asteroids the spacecraft must use the rocket on. One comes at the spacecraft in an orderly side-sweeping pattern. One stays still and acts as a block.
+One chases after the spacecraft, but it's faster than the spacecraft. To guide the rocket, deploy it with the space bar and then guide it by rotating the spacecraft to change its direction.
+Holding down the space bar will propel the missile in the direction the spacecraft is facing. If your spacecraft is hit, it will make a green explosion and pause the game.
+If you use the rocket on the asteroids, then they will make a green explosion.
+Music only plays in the game.exe version for some reason but I have it on there. 
+If you would like the epic music, run the game.exe version, press escape, and then run the gamewin.exe version. Thank you and Have fun! 
